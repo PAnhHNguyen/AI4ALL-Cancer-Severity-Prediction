@@ -58,5 +58,6 @@ List the technologies, libraries, and frameworks used in your project.
 
 ## Authors <!--- do not change this line -->
 
-- *John Doe ([john.doe@example.com](mailto:john.doe@example.com))*
-- *Jane Smith ([jane.smith@example.com](mailto:jane.smith@example.com))*
+- Anh Nguyen ([nguye45p@mtholyoke.edu](mailto:nguye45p@mtholyoke.edu))
+- Saniya Jain ([saniyajain@umass.edu](mailto:saniyajain@umass.edu))
+- Sneha Arya ([sfa5848@psu.edu](mailto:sfa5848@psu.edu))
