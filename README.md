@@ -1,11 +1,7 @@
 # Cancer Severity Prediction
 
-(UPDATE IN README.md)
-Briefly describe the purpose/result(s) of your project, the skills you applied, and the Apply AI program.
-
-*EXAMPLE:*
-*Uncovered and meticulously analyzed three distinct biases present in ChatGPT, employing advanced Python techniques and data analysis methodologies, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.*
-
+- Worked with a datatset containing 1000 observations with information about lung cancer patients
+- Used data visualizations techniques, statistical regression analysis, and supervised machine learning (random forest classifier) to predict level of cancer severity
 
 ## Problem Statement <!--- do not change this line -->
 
