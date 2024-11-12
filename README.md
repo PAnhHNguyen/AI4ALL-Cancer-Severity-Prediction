@@ -1,7 +1,8 @@
 # Cancer Severity Prediction
 
 - Worked with a datatset containing 1000 observations with information about lung cancer patients
-- Used data visualizations techniques, statistical regression analysis, and supervised machine learning (random forest classifier) to predict level of cancer severity
+- Used data visualizations techniques to gain insights about datasets
+- Used statistical regression analysis and supervised machine learning (random forest classifier) to predict level of cancer severity
 
 ## Problem Statement <!--- do not change this line -->
 
