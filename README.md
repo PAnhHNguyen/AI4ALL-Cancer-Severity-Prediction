@@ -1,19 +1,12 @@
-# (UPDATE IN README.md) Project Title
+# Cancer Severity Prediction
 
-(UPDATE IN README.md)
-Briefly describe the purpose/result(s) of your project, the skills you applied, and the Apply AI program.
-
-*EXAMPLE:*
-*Uncovered and meticulously analyzed three distinct biases present in ChatGPT, employing advanced Python techniques and data analysis methodologies, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.*
-
+- Worked with a datatset containing 1000 observations with information about lung cancer patients
+- Used data visualizations techniques to gain insights about datasets
+- Used statistical regression analysis and supervised machine learning (random forest classifier) to predict level of cancer severity
 
 ## Problem Statement <!--- do not change this line -->
 
-(UPDATE IN README.md)
-Describe the motivation for this project, why it is relevant, and what its impacts are.
-
-*EXAMPLE:*
-*Given the substantial daily output of responses, the identification and mitigation of ChatGPT's biases become critical, safeguarding both the multitude of users and the far-reaching consequences they may influence.*
+The use of AI to aid cancer prevention, diagnosis, and treatment has seen a lot of success. Applications trying to match cancer drugs to patients based on cell data, predict how well a patient would respond to a treatment, or provide earlier diagnosis have been able to significantly improve people’s quality of life. In this project, we are interested in using ML/AI to answer the research question: How accurately can we predict the severity of lung cancer based on selected environmental and behavioral factors? The main dataset we use contains information about 1000 lung cancer patients, recording 20 variables such as age, air pollution exposure, alcohol use, smoking level, genetic risk, etc. These factors can be used to predict the severity level of their lung cancer (Low, Medium, or High). We are especially interested in seeing how much environmental factors such as air pollution impact cancer severity, possibly using other datasets to provide additional insights. This research question can deepen our understanding of lung cancer prevention, diagnosis, and treatment as the dataset records information commonly used to assess cancer risk like diet and substance abuse, as well as patients' already existing symptoms like chest pain and shortness of breath.
 
 ## Key Results <!--- do not change this line -->
 
@@ -47,21 +40,13 @@ Include any relevant data sources that were used in your project.
 
 ## Technologies Used <!--- do not change this line -->
 
-(UPDATE IN README.md)
-List the technologies, libraries, and frameworks used in your project.
-
-*EXAMPLE:*
-- *Python*
-- *pandas*
-- *OpenAI API*
-
+- Python
+- pandas
+- numpy
+- scikit-learn
 
 ## Authors <!--- do not change this line -->
 
-(UPDATE IN README.md)
-List the names and contact information (e.g., email, GitHub profiles) of the authors or contributors.
-
-*EXAMPLE:*
-*This project was completed in collaboration with:*
-- *John Doe ([john.doe@example.com](mailto:john.doe@example.com))*
-- *Jane Smith ([jane.smith@example.com](mailto:jane.smith@example.com))*
+- Anh Nguyen ([nguye45p@mtholyoke.edu](mailto:nguye45p@mtholyoke.edu))
+- Saniya Jain ([saniyajain@umass.edu](mailto:saniyajain@umass.edu))
+- Sneha Arya ([sfa5848@psu.edu](mailto:sfa5848@psu.edu))
