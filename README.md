@@ -16,7 +16,7 @@ The use of AI to aid cancer prevention, diagnosis, and treatment has seen a lot 
 
 ## Data Sources <!--- do not change this line -->
 
-[Lung Cancer Dataset from Kaggle] (https://www.kaggle.com/datasets/thedevastator/cancer-patients-and-air-pollution-a-new-link)
+[Lung Cancer Dataset from Kaggle](https://www.kaggle.com/datasets/thedevastator/cancer-patients-and-air-pollution-a-new-link)
 
 ## Technologies Used <!--- do not change this line -->
 
